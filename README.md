@@ -31,4 +31,4 @@ Hi, I'm Piyush Mishra 👋
 
 ## 📫 Connect with me
 - Email: Professional.piyushmishra@gmail.com
-- LinkedIn: [apna link yahan daalo, ya ye line delete kar do]
+- LinkedIn: [www.linkedin.com/in/piyush-mishra-3a7060371]
