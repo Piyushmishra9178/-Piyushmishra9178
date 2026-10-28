@@ -30,5 +30,5 @@ Hi, I'm Piyush Mishra 👋
 - Building full-stack projects
 
 ## 📫 Connect with me
-- Email: Professional.piyushmishra@gmail.com
+- Email: Professional.piyushmishra@gmail.com 
 - LinkedIn: [www.linkedin.com/in/piyush-mishra-3a7060371]
